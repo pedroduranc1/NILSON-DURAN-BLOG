@@ -1,6 +1,6 @@
 const siteMetadata = {
   title: 'Blog de Nilson Duran',
-  author: 'Tails Azimuth',
+  author: 'Nilson Duran',
   author2: 'Pedro Duran',
   headerTitle: 'Nilson Duran Blog',
   description: 'Un blog creado en Next.js and Tailwind.css',
