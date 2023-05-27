@@ -18,8 +18,7 @@
   @apply my-5;
 }
 
-
-p:first-of-type{
+div + p:first-of-type {
   @apply first-line:tracking-widest;
   @apply first-letter:text-7xl first-letter:font-bold text-primary-500;
   @apply first-letter:mr-3 first-letter:float-left;
