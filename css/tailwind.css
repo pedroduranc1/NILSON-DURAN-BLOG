@@ -24,7 +24,7 @@ div + p:first-of-type {
   @apply first-letter:mr-3 first-letter:float-left;
 }
 
-div + p {
+p {
   @apply text-justify;
 }
 
