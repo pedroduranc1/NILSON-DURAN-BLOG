@@ -22,6 +22,7 @@ div + p:first-of-type {
   @apply first-line:tracking-widest;
   @apply first-letter:text-7xl first-letter:font-bold text-primary-500;
   @apply first-letter:mr-3 first-letter:float-left;
+  @apply text-justify;
 }
 
 /* https://stackoverflow.com/questions/61083813/how-to-avoid-internal-autofill-selected-style-to-be-applied */
