@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Aporta Ve',
+  title: 'Nilson Duran',
   author: 'Nilson Duran',
   author2: 'Pedro Duran',
   headerTitle: 'Aporta Ve',
@@ -7,7 +7,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://nilson-duran-blog-ixfy.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteRepo: '',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/pageBigLogo.jpg',
