@@ -6,7 +6,7 @@ const siteMetadata = {
   description: 'Un canal Informativo para ti',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://nilson-duran-blog-ixfy.vercel.app',
+  siteUrl: 'https://nilsonduran.vercel.app/',
   siteRepo: '',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
